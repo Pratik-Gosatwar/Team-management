@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamManagemnet", "TeamManagemnet\TeamManagemnet.csproj", "{BB87DF93-A514-466C-B075-6AC9078C30FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamManagement", "TeamManagemnet\TeamManagement.csproj", "{BB87DF93-A514-466C-B075-6AC9078C30FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
